@@ -5,7 +5,13 @@
 .ex-1-square:hover{
     background-color: red;
 }
-
+/* ES 2 */
+.ex-2-square{
+    transition: 2.5s;
+}
+.ex-2-square:active{
+    width: 100%;
+}
 /* ES 3 */
 /* ES 4 */
 /* ES 5 */
