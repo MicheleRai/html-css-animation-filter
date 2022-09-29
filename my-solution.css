@@ -65,7 +65,14 @@
     border-radius: 20%;
 }
 /* ES 10 */
-
+.ex-10-icon{
+    animation: rotazione 1.5s linear infinite; 
+}
+@keyframes rotazione{
+    0%{
+        transform: rotate(1turn);
+    }
+}
 /* ES 11 */
 /* ES 12 */
 /* ES 13 */
