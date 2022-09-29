@@ -27,6 +27,15 @@
     opacity: 0;
 }
 /* ES 5 */
+.ex-5-square{
+    transition: 1.5s;
+}
+.ex-5-square:hover{
+    transform: scale(2);
+}
+.ex-5-square:active{
+    transform: scale(0.5);
+}
 /* ES 6 */
 /* ES 7 */
 /* ES 8 */
