@@ -48,6 +48,13 @@
     filter: grayscale(0.6) sepia(0.5);
 }
 /* ES 8 */
+.ex-8-img{
+    transition: 2s;
+}
+.ex-8-img:hover{
+    filter: grayscale(0.6) sepia(0.5);
+    border-radius: 20%;
+}
 /* ES 9 */
 /* ES 10 */
 /* ES 11 */
