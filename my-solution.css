@@ -37,7 +37,11 @@
     transform: scale(0.5);
 }
 /* ES 6 */
+.ex-6-img:hover{
+    filter: grayscale(1);
+}
 /* ES 7 */
+
 /* ES 8 */
 /* ES 9 */
 /* ES 10 */
