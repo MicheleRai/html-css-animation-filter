@@ -13,6 +13,12 @@
     width: 100%;
 }
 /* ES 3 */
+.ex-3-square{
+    transition: 1.5s;
+}
+.ex-3-square:hover{
+    border-radius: 100%;
+}
 /* ES 4 */
 /* ES 5 */
 /* ES 6 */
